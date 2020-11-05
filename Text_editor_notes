@@ -12,3 +12,33 @@ Most important fearutes include
 Code completion
 -allows you to start typing and will display possible suggestions
 -finishs brackets that you start or quotations 
+
+Emmet
+-Help write html and css smoothly
+-Built into some text editors
+
+Syntax highlighting
+-Colorizes you text that you type
+-Different elements are different colors
+
+Themes
+-change the backround color 
+-Change the text color
+-Can Makes it easier on the eyes/Lower fatigue
+
+Extensions
+-After all you will want to get it done faster
+-additions to the editor
+
+Already existing editors
+-Most computers come with stuff like notepad or gedit
+-Has no formatting so anothe editor is recommended
+
+Third party options
+-notepad++
+-Text wrangler
+-BB edit
+-Visual studio code
+-atom
+-Brackets
+-sublime texts
